@@ -1,4 +1,4 @@
-## neoG-markSix-bananaTransalation
+## NeoG-markSix-bananaTransalation
 Creating a application where we taking input and translating it to minion languague.
 
 ## Technology Used:
